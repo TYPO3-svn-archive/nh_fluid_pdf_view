@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../nh_pdf_view_demo" />
+          <root url="file://$MODULE_DIR$/../../../../../../PhpstormProjects/TYPO3_SRC/TYPO3_6-1" />
+          <root url="file://$MODULE_DIR$/../phpunit" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../nh_pdf_view_demo" />
+          <root url="file://$MODULE_DIR$/../../../../../../PhpstormProjects/TYPO3_SRC/TYPO3_6-1" />
+          <root url="file://$MODULE_DIR$/../phpunit" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
